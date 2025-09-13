@@ -45,7 +45,7 @@ npm install @mui/material @mui/icons-material @emotion/react @emotion/styled
 
 Clone the repository:
 
-git clone https://github.com/your-username/product-compare-app.git
+git clone https://github.com/Rushi123-coder/product-compare-app.git
 cd product-compare-app
 
 Install dependencies:
