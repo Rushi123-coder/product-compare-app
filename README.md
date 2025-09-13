@@ -41,6 +41,9 @@ npm install react react-dom
 npm install @mui/material @mui/icons-material @emotion/react @emotion/styled
 
 
+## Hosted Link (Netlify)
+https://earnest-blini-98c9a5.netlify.app/
+
 ▶️ Getting Started
 
 Clone the repository:
